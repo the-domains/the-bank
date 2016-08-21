@@ -1,4 +1,3 @@
-layout_spectrum: 0.8696912557352334
 typography_spectrum: 0.6481457997579128
 color:
   brandStrength: 0.06507247989065945
@@ -11,4 +10,9 @@ color:
     - '#6E6E6E'
     - '#939393'
     - '#1A1A1A'
+layout_spectrum: 0.8696912557352334
+author:
+  name: Don Loughran
+  email: dwl@loughran.ca
 name: The Bank
+title: So... We Bought a Bank
