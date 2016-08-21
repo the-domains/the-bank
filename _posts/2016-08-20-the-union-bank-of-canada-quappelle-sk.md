@@ -1,20 +1,24 @@
 ---
-datePublished: '2016-08-21T08:58:25.123Z'
-sourcePath: _posts/2016-08-20-the-union-bank-of-canada-quappelle-sk.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
+description: 'The Union Bank of Canada, Qu''Appelle, SK.'
+datePublished: '2016-08-21T08:47:56.556Z'
+dateModified: '2016-08-21T08:47:40.645Z'
+title: ''
 author: []
 via: {}
-dateModified: '2016-08-21T08:56:07.003Z'
-title: ''
-publisher: {}
-description: 'The Union Bank of Canada, Qu''Appelle, SK.'
-inLanguage: null
-inNav: false
+sourcePath: _posts/2016-08-20-the-union-bank-of-canada-quappelle-sk.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-url: union-bank-of-canada-1908/index.html
+url: the-union-bank-of-canada-quappelle-sk/index.html
 _type: Article
 
 ---
@@ -33,6 +37,3 @@ The Bank has been, well, a bank...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e9f6b43-d33a-4994-80d0-c52685db75cb.jpg)
 
 ... and a derelict.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b2604b7-81f8-4190-9eb6-aa8d554dee23.jpg)
-
-But now it's home.
