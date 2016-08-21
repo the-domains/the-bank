@@ -6,9 +6,9 @@ color:
   saturation: 0.5411679060198367
   rhythmicContrast: 0.06281959405168891
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#C7C7C7'
+    - '#4A4A4A'
+    - '#6E6E6E'
+    - '#939393'
+    - '#1A1A1A'
 name: The Bank
