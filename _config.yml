@@ -1,32 +1,14 @@
-typography_spectrum: 0.4397053353022784
+layout_spectrum: 0.8696912557352334
+typography_spectrum: 0.6481457997579128
 color:
+  brandStrength: 0.06507247989065945
+  lightness: 0.27280830522067845
+  saturation: 0.5411679060198367
+  rhythmicContrast: 0.06281959405168891
   brandColors:
-    - '#c7c7c7'
-    - '#4a4a4a'
-    - '#6e6e6e'
-    - '#939393'
-    - '#1a1a1a'
-  brandStrength: 0.8998829135671258
-  lightness: 0.8099951751064509
-  saturation: 0.2284346914384514
-  rhythmicContrast: 0.708871642826125
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.25698
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Don Loughran
-  email: dwl@loughran.ca
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: The Bank
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: So We Bought a Bank
-purpose: []
